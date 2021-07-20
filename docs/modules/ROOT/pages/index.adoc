@@ -1,1 +1,7 @@
-=Homepage
+= Homepage 
+Anton Rott <anton.rott@accenture.com> 
+:description: A description of the page stored in an HTML meta tag. 
+:keywords: comma-separated values, stored, in an HTML, meta, tag 
+:page-role: tiles 
+:sectanchors: 
+:url-repo: https://github.com/FRIDA-official 
